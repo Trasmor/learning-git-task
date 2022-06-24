@@ -8,3 +8,4 @@ for i in x:
     print(i)
 print(x)
 print("^Zmiana nr 2")
+#pozrawiam cieplutko
